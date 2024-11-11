@@ -4,8 +4,12 @@ third commit
 fourth commit
 fifth commit
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 =======
 reverting
 good morning!!!
 >>>>>>> 42f87d2c13a790ad4ad080d86ccfc8b236cfcaa6
+=======
+
+>>>>>>> parent of d7b2972 (reverting)
